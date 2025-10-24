@@ -7,9 +7,13 @@
 }
 #red{
 	background-color:red;
-	border:ipx solid black;
+	border-width:1px;
+	border-color: black;
+	 border-style: solid;
 }
 #green{
 	background-color:green;
-	border:1px solid yellow
+	border-width:1px;
+	border-color: yellow;
+	 border-style: solid;
 }
